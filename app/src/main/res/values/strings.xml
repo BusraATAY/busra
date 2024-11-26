@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="task_details">Task Details for: %1$s</string>
+    <string name="no_task_name_provided">No task name provided.</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_button_text">Register</string>
+    <color name="text_field_background">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+    <color name="button_background">#6200EE</color>
+    <color name="button_text_color">#FFFFFF</color>
+
+
+
+</resources>
